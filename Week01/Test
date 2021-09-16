@@ -1,0 +1,2 @@
+  git config --global user.email "ssoni1@umbc.edu"
+  git config --global user.name "Srashti"
